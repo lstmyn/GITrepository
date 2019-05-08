@@ -1,6 +1,7 @@
 
 public clsss test{
 	 public static void main(String[] args){
-	 	  sysotem.out.println("111");
+	 	  System.out.println("111");
+	 	  System.out.println("222");
 	}
 }
